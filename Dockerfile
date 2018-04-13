@@ -1,3 +1,4 @@
+# BUILD TEST 001
 FROM node:8.9.3-alpine
 RUN mkdir -p /usr/src/app
 COPY ./app/* /usr/src/app/
